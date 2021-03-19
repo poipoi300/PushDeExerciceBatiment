@@ -1,0 +1,13 @@
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\bin\Debug\netcoreapp3.1\ExerciceBatiment.exe
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\bin\Debug\netcoreapp3.1\ExerciceBatiment.deps.json
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\bin\Debug\netcoreapp3.1\ExerciceBatiment.runtimeconfig.json
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\bin\Debug\netcoreapp3.1\ExerciceBatiment.runtimeconfig.dev.json
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\bin\Debug\netcoreapp3.1\ExerciceBatiment.dll
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\bin\Debug\netcoreapp3.1\ExerciceBatiment.pdb
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\obj\Debug\netcoreapp3.1\ExerciceBatiment.csprojAssemblyReference.cache
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\obj\Debug\netcoreapp3.1\ExerciceBatiment.AssemblyInfoInputs.cache
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\obj\Debug\netcoreapp3.1\ExerciceBatiment.AssemblyInfo.cs
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\obj\Debug\netcoreapp3.1\ExerciceBatiment.csproj.CoreCompileInputs.cache
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\obj\Debug\netcoreapp3.1\ExerciceBatiment.dll
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\obj\Debug\netcoreapp3.1\ExerciceBatiment.pdb
+C:\Users\tommy\Documents\Misc\Ecole\Hiver 2021\Programmation orientée objet\Exercices\Exercice batiment\ExerciceBatiment\ExerciceBatiment\obj\Debug\netcoreapp3.1\ExerciceBatiment.genruntimeconfig.cache
